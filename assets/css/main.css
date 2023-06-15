@@ -2075,8 +2075,10 @@ i {
 }
 .home-dark .h2,
 .home-dark p {
-  color: #111827;
+  color: #ffffff;
 }
+
+
 
 .home-two-dark {
   background-color: #111827;
@@ -3957,6 +3959,7 @@ i {
 .authentication .form-cta p {
   text-align: center;
   margin-top: 40px;
+  color: #111827;
 }
 .authentication .form-cta p a {
   color: #4569e7;
