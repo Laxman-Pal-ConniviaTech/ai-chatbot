@@ -1429,7 +1429,7 @@ i {
 .header .nav__menu-link--dropdown {
   position: relative;
 }
-.header .nav__menu-link--dropdown::after {
+.dropdown::after {
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   content: "\f107";
