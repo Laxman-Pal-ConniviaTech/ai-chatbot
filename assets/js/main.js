@@ -256,3 +256,8 @@
     $("#preloader").hide();
   });
 })(jQuery);
+
+
+document.querySelector(".openchat").addEventListener("click", ()=>{
+  document.querySelector(".chatbot-container").classList.toggle("active")
+})
