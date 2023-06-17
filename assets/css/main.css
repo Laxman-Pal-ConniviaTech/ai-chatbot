@@ -4846,7 +4846,7 @@ i {
 .use-case .use-case__item {
   padding: 30px;
   border-radius: 10px;
-  background: #ffffff;
+  background: #202020;
   height: 100%;
 }
 .use-case .use-case__item .thumb {
@@ -4859,14 +4859,14 @@ i {
   margin-bottom: 16px;
 }
 .use-case .use-case__item .h5 a {
-  color: #000;
+  color: #fff;
   transition: all 0.4s ease-in-out;
 }
 .use-case .use-case__item .h5 a:hover {
   color: #4569e7;
 }
 .use-case .use-case__item p {
-  color: #3f3f3f;
+  color: #fff;
 }
 .use-case .use-case__item:hover .thumb img {
   transform: rotate(360deg);
