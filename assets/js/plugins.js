@@ -1,7 +1,7 @@
 /* ==============
  ========= js documentation ==========================
 
- * theme name: TechAi
+ * theme name: intelbot
  * version: 1.0
  * description: AI Toolkit HTML5 Template
  * author: HugeBinary
