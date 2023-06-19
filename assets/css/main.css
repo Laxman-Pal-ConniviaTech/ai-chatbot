@@ -90,7 +90,7 @@ body {
   line-height: 0px;
   font-weight: 400;
   color: #fff;
-  background-color: #000;
+  background-color: #051853;
   overflow-x: clip;
 }
 body::-webkit-scrollbar {
@@ -442,7 +442,7 @@ i {
 }
 
 .bg-img {
-  background-color: #000;
+  background-color: #030F37;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1618,7 +1618,7 @@ i {
 }
 
 .header--dark.header-active {
-  background-color: #000 !important;
+  background-color: #0E1424 !important;
 }
 
 .header-two .nav__uncollapsed-item .btn {
@@ -2071,7 +2071,7 @@ i {
  --------- (5.0) all sections styles start ---------
  ==== */
 .home-dark {
-  background-color: #000;
+  background-color: #16203B;
 }
 .home-dark .h2,
 .home-dark p {
@@ -2826,7 +2826,7 @@ i {
 
 .review .review__single {
   padding: 30px;
-  background-color: #202020;
+  background-color: #0E1424;
   border-radius: 20px;
   transition: all 0.2s ease-in;
 }
@@ -3051,7 +3051,7 @@ i {
 }
 .generate .generate__content-btn {
   padding: 25px;
-  background-color: #202020;
+  background-color: #0E1424;
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -4846,7 +4846,7 @@ i {
 .use-case .use-case__item {
   padding: 30px;
   border-radius: 10px;
-  background: #202020;
+  background: #030F37;
   height: 100%;
 }
 .use-case .use-case__item .thumb {
@@ -4875,6 +4875,7 @@ i {
   color: #4569e7;
 }
 .use-case .container {
+  margin-top: 100px;
   position: relative;
   z-index: 1;
 }
